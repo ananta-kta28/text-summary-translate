@@ -1,6 +1,6 @@
-# Multilingual Article Summarization & Catchy Headline Generator
+# Multilingual Text Summarization & Translation
 
-This project uses state-of-the-art NLP models to **summarize articles**, **generate catchy headlines**, and **translate the results into multiple languages**. It leverages Hugging Face's transformer models and datasets to provide quick, accurate, and multilingual outputs.
+This project uses state-of-the-art NLP models to **summarize articles**, **generate headlines**, and **translate the results into multiple languages**. It leverages Hugging Face's transformer models and datasets to provide quick, accurate, and multilingual outputs.
 
 ---
 
