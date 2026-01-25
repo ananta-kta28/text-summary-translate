@@ -37,5 +37,5 @@ Requires Python 3.8+ and the following libraries:
 The project uses the **CNN/DailyMail** dataset for testing and demonstration, providing real-world news articles and human-written summaries for evaluation.
 
 Made by-
-Ananta Taneja
+Ananta Taneja & Harsh Choubey
 
